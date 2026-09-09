@@ -1,0 +1,11 @@
+Order_ID,Order_Date,Region,Category,Product,Quantity,Revenue
+ORD001,2026-01-01,South,Electronics,Laptop,2,120000
+ORD002,2026-01-02,North,Furniture,Chair,5,25000
+ORD003,2026-01-03,South,Electronics,Monitor,3,45000
+ORD004,2026-01-04,East,Clothing,Jacket,4,16000
+ORD005,2026-01-05,West,Electronics,Keyboard,10,15000
+ORD006,2026-01-06,South,Furniture,Desk,2,30000
+ORD007,2026-01-07,North,Electronics,Mouse,8,8000
+ORD008,2026-01-08,West,Clothing,Shoes,3,12000
+ORD009,2026-01-09,East,Electronics,Phone,2,70000
+ORD010,2026-01-10,South,Electronics,Tablet,4,80000
