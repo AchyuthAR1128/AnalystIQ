@@ -1,3 +1,9 @@
+## 🌐 Live Demo
+
+**[Launch AnalystIQ]([YOUR_STREAMLIT_APP_URL](https://analystiq-hpmalqxtafq3o5exzs474g.streamlit.app/)])**
+
+Try the live application by uploading a dataset and asking business questions in natural language.
+
 # AnalystIQ — AI-Powered Data Analytics Copilot
 
 AnalystIQ is an AI-powered data analytics application that helps transform messy business data into meaningful, actionable insights.
